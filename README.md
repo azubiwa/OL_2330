@@ -1,3 +1,16 @@
+# ほんびより（おすすめの本紹介サービス）  
+  
+このプロジェクトは JPHACKS2023 で制作したwebアプリです。  
+元々私は本が好きで図書館によく行くことから、図書館の十進法分類をもとに、ランダムなおすすめの本を紹介するサービスを考えました。  
+  
+主にバックエンドを担当しました。  
+  
+オリジナルリポジトリ  
+https://github.com/jphacks/OL_2330  
+  
+  
+====================================
+
 # ほんびより
 
 [![IMAGE ALT TEXT HERE](https://storage.cloud.google.com/ol_2330_share/localhost_3000%20-%20Google%20Chrome%202023-10-29%2012-26-46.mp4)](https://storage.cloud.google.com/ol_2330_share/localhost_3000%20-%20Google%20Chrome%202023-10-29%2012-26-46.mp4)
